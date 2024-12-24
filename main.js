@@ -5,6 +5,7 @@ document.querySelector('#app').innerHTML = `
     <section class="hero">
       <div class="container">
         <div class="hero-content">
+          <img src="/washhub-logo.svg" alt="WashHub Logo" class="logo">
           <h1>Smart Laundry Solutions for Busy Lives</h1>
           <p>Experience hassle-free laundry service with our innovative app. Schedule pickups, track orders, and get your clothes delivered fresh and clean.</p>
           <a href="#" class="cta-button">Get Started</a>

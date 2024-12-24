@@ -25,6 +25,12 @@ body {
   padding: 0 2rem;
 }
 
+.logo {
+  width: 150px;
+  height: auto;
+  margin-bottom: 2rem;
+}
+
 .hero {
   min-height: 80vh;
   display: flex;
@@ -175,5 +181,9 @@ body {
   
   .price-cards {
     grid-template-columns: 1fr;
+  }
+  
+  .logo {
+    width: 120px;
   }
 }
